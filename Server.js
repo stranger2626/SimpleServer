@@ -33,4 +33,4 @@
     });
   }).listen(parseInt(port, 10));
 
-  console.log("Static file server running at\n  => http://localhost:" + port + "/\nCTRL + C to shutdown");
+console.log("Static file server running at\n  => http://localhost:" + port + "/\nCTRL + C to shutdown");
